@@ -10,4 +10,5 @@ A face encoding is basically a way to represent the face using a set of 128 comp
 Third Phase: As the face is recognized from the database, the identified user details like mobile number is extracted from the database and a message his sent to him using twilio which is a web application programming interface (API) that software developers can use to add communications such as phone calling, messaging, video and two-factor authentication into their Python applications.
 
 dataset link:
+Install all packages in requirements.txt
 RUN detect_mask_video for output
