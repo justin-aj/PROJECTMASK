@@ -12,6 +12,6 @@ Third Phase: As the face is recognized from the database, the identified user de
 dataset link:
 Install all packages in requirements.txt
 RUN detect_mask_video for output
-TWILIO ACCOUNT:
+
  
  Please use your own twilio account to avoid Credentials getting exposed.
